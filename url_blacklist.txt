@@ -1,4 +1,0 @@
-# Local URL/domain blacklist for virus_reader.py
-# Add one domain per line. Subdomains are matched automatically.
-# This sample uses a reserved .invalid domain and blocks no real website.
-example-malware.invalid
